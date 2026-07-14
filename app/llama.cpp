@@ -1,4 +1,4 @@
-#include "build-info.h"
+docker model run hf.co/lmstudio-community/Qwen3.6-35B-A3B-GGUF:Q4_K_M#include "build-info.h"
 
 #include <cstdio>
 #include <cstdlib>
